@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/harsh/OneDrive/Desktop/Gen_AI/langchain_models/genai/Scripts/python.exe",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.extraPaths": [
+        "C:/Users/harsh/OneDrive/Desktop/Gen_AI/langchain_models/genai/Lib/site-packages"
+    ],
+    "python.analysis.indexing": true,
+    "python.languageServer": "Pylance"
+}
